@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">A reversal hidden by composition</title><desc id="desc">Aggregate effect -20.00% and pooled-stratum standardized effect +5.00% point in opposite directions.</desc>
+<rect width="1200" height="630" rx="32" fill="#f6f8fb"/><text x="72" y="92" fill="#2f78c4" font-family="system-ui,sans-serif" font-size="22" font-weight="700" letter-spacing="2">STRATALENS AUDIT</text>
+<text x="72" y="160" fill="#12253f" font-family="system-ui,sans-serif" font-size="48" font-weight="800">A reversal hidden by composition</text>
+<text x="72" y="210" fill="#58708c" font-family="system-ui,sans-serif" font-size="24">The raw aggregate and the composition-standardized comparison disagree.</text>
+<line x1="170" y1="348" x2="1030" y2="348" stroke="#bfcbd8" stroke-width="4"/><line x1="600" y1="315" x2="600" y2="465" stroke="#12253f" stroke-width="3"/>
+<text x="600" y="300" fill="#58708c" text-anchor="middle" font-family="system-ui,sans-serif" font-size="18">zero</text>
+<line x1="600" y1="370" x2="170.0" y2="370" stroke="#ef765f" stroke-width="28" stroke-linecap="round"/><circle cx="170.0" cy="370" r="15" fill="#ef765f"/>
+<text x="72" y="380" fill="#12253f" font-family="system-ui,sans-serif" font-size="22" font-weight="700">Aggregate</text><text x="1060" y="380" fill="#ef765f" font-family="system-ui,sans-serif" font-size="24" font-weight="800">-20.00%</text>
+<line x1="600" y1="438" x2="707.5" y2="438" stroke="#2e9a86" stroke-width="28" stroke-linecap="round"/><circle cx="707.5" cy="438" r="15" fill="#2e9a86"/>
+<text x="72" y="448" fill="#12253f" font-family="system-ui,sans-serif" font-size="22" font-weight="700">Standardized</text><text x="1060" y="448" fill="#2e9a86" font-family="system-ui,sans-serif" font-size="24" font-weight="800">+5.00%</text>
+<rect x="72" y="505" width="1056" height="72" rx="16" fill="#ffffff" stroke="#dbe3ec"/><text x="98" y="550" fill="#12253f" font-family="system-ui,sans-serif" font-size="22">Composition gap: <tspan font-weight="800">-25.00%</tspan> · 3 comparable strata · seed 20260916</text>
+</svg>
