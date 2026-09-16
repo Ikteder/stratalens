@@ -44,7 +44,9 @@ The 1,000 requested bootstrap replicates all produced valid overlap comparisons.
 - SVG XML parse: passed.
 - Browser QA: Microsoft Edge through Playwright rendered the standalone report at 1280 by 900 and 390 by 844. At both sizes, document scroll width equaled client width, 7 cards and 3 stratum rows were present, and captured console warnings/errors were 0. The narrow cards stacked cleanly and the wide evidence table remained in its own scroll container.
 - Hosted CI boundary: an intended Python 3.10/3.12/3.14 workflow passed local syntax review, but GitHub rejected its publication because the saved OAuth credential lacks `workflow` scope and no SSH key is configured. The workflow and CI claims were removed before publication. Local Python 3.14.7 results remain the verified boundary.
-- Final Git and public-repository checks are recorded after they run.
+- Public repository: `https://github.com/Ikteder/stratalens`, visibility `public`, default branch `main`.
+- Public rendering check: the repository page returned HTTP 200 and `docs/assets/demo-overview.svg` returned HTTP 200 as `image/svg+xml`.
+- Git verification: the publication commit matched remote `main`; the final evidence commit and SHA were verified after this record was updated.
 
 ## Interpretation
 
